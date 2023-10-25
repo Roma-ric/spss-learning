@@ -107,7 +107,7 @@
 <img src="./ecart-type.png">
 
 
-<font size=10 color=grey> Analyse univariée </font>
+# Analyse univariée
 
 ### `Analyse qualitative`
 1. Première étape
@@ -149,8 +149,8 @@
         OK
 
 
-<font size=10 color=grey> Analyse bivariée </font> \
-<font size=6 color=white> Variables qualitatives </font>
+# Analyse bivariée
+## Variables qualitatives
 
 ### `Croisements entre 2 variables catégorielles`
 1. Première étape
@@ -196,7 +196,7 @@
 
 
 
-<font size=6 color=white> Variables quantitatives </font>
+## Variables quantitatives 
 
 ### `Corrélations`
 1. Première étape
@@ -247,7 +247,7 @@
 
         OK 
 
-#### `Coefficient de détermination R2 (dégré d'explicaion de la variable dependante par la variable indépendante)` : R2
+#### `Coefficient de détermination R2 (dégré d'explication de la variable dependante par la variable indépendante)` : R2
 - **R deux**
 #### `Niveau de signification du coefficient de détermination R2` : ANOVA
 - `Ha : ` **p > pSeuil** (Pas significative)
@@ -258,7 +258,7 @@ Voir si **`Sig`** = **`0`** ou **`Sig`** # **`0`**
 - **a ---> Bêta 1**
 - **b ---> Bêta 0**
 
-<font size=6 color=white> Variable quantitative et variable qualitative </font>
+## Variable quantitative et variable qualitative
 
 ### `Croisements entre 2 variables dont une est continue` : (variables de type différentes) : pour les variables dichotomiques
 1. Première étape
@@ -280,7 +280,7 @@ Voir si **`Sig`** = **`0`** ou **`Sig`** # **`0`**
         OK 
 
 
-<font size=10 color=grey> Analyse multivariée </font> 
+# Analyse multivariée 
 
 ### `Corrélations`
 1. Première étape
